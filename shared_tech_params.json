@@ -1,0 +1,24 @@
+{
+    "dependencies": {
+        "plugin_api_version": "4",
+        "use_jquery": false
+    },
+    "shared_keys": {
+        "AAU": {
+            "caption": "BoxyHQ Instance URL",
+            "type": "secure"
+        },
+        "AAX": {
+            "caption": "Callback URL",
+            "type": "secure"
+        },
+        "AAY": {
+            "caption": "Client Secret Verifier",
+            "type": "secure"
+        },
+        "AAa": {
+            "caption": "Product",
+            "type": "secure"
+        }
+    }
+}

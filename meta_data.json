@@ -1,0 +1,15 @@
+{
+    "categories": {
+        "0": "technical",
+        "1": "compliance"
+    },
+    "data_tracked": false,
+    "demo_page": "https://boxyhq-saml-sso.bubbleapps.io/version-test",
+    "description": "Security Building Blocks for Developers\n\nBuilding your enterprise applications on Bubble is now easier than ever with BoxyHQ, a single API to connect to enterprise Single Sign-On (SSO), and multiple security compliance features. \n\nBoxyHQ supports most SAML and Open ID Connect SSO providers. Here’s a short list but many more are supported:\n\n* Entra ID\n* Microsoft AD FS\n* Okta\n* Auth0\n* Google\n* OneLogin\n* PingOne\n* JumpCloud\n* OpenID Connect Provider\n\nOut-of-the-box benefits when deploying SSO (Single Sign On) to your application:\n\n * Improved security\n\nBy deploying SAML SSO, you can enable your customers to manage access control on their own systems. This helps prevent password sharing, ensures that staff have the correct access, and allows them to easily grant and revoke access from a central location.\n\n* Enhanced user experience\n\nImproving the login experience is crucial for providing a good user experience. By allowing your customers to log in to your product via their IdP dashboard with a single click, you can significantly improve their experience with your product.\n\n* Reduced costs\n\nIn addition to the cost savings of using an out-of-the-box solution instead of building a custom version, implementing SAML can save you money by eliminating the need to maintain account information across multiple services. With SAML, this is all managed by the IdP.\n\n* Meet compliance requirements\n\nCompliance Requirements: Some enterprises may be subject to regulatory or compliance requirements that mandate using SSO for certain applications or services. Implementing SSO on Bubble.io can help enterprises meet these requirements and avoid potential penalties or fines not to mention increased security.\n\nPlease head to https://app.eu.boxyhq.com/auth/join to create an SSO connection that you can then use in this Bubble plugin. You can also self-host SAML Jackson to use this plugin.\n\nThis guide will help you set up the BoxyHQ SAML SSO Bubble Plugin to add SAML SSO authentication to your Bubble application - https://boxyhq.com/guides/jackson/integrations/bubble .\n\nPlease reach out to support@boxyhq.com for any questions or feedback.\n",
+    "image": "//s3.amazonaws.com/appforest_uf/f1676605116970x355472674788275100/SAMLJACKSON%20%28No%20Padding%29.png",
+    "license": "open_source",
+    "link": "https://boxyhq.com/enterprise-sso",
+    "name": "BoxyHQ SSO (Single Sign On) SAML",
+    "plugin_instructions": "https://boxyhq.com/guides/jackson/integrations/bubble",
+    "sa_node_version": 18
+}

@@ -1,0 +1,59 @@
+{
+    "category": "data (things)",
+    "display": "BoxyHQ - Fetch User Profile",
+    "fields": {
+        "AAK": {
+            "caption": "code",
+            "editor": "DynamicValue",
+            "name": "code",
+            "rank": 0,
+            "value": "text"
+        }
+    },
+    "return_value": {
+        "AAL": {
+            "caption": "profile id",
+            "name": "id",
+            "rank": 0,
+            "value": "text"
+        },
+        "AAM": {
+            "caption": "profile email",
+            "name": "email",
+            "rank": 1,
+            "value": "text"
+        },
+        "AAN": {
+            "caption": "profile first name",
+            "name": "firstname",
+            "rank": 2,
+            "value": "text"
+        },
+        "AAO": {
+            "caption": "profile last name",
+            "name": "lastname",
+            "rank": 3,
+            "value": "text"
+        },
+        "AAP": {
+            "caption": "requested tenant",
+            "name": "requestedtenant",
+            "rank": 4,
+            "value": "text"
+        },
+        "AAQ": {
+            "caption": "requested product",
+            "name": "requestedproduct",
+            "rank": 5,
+            "value": "text"
+        },
+        "AAR": {
+            "caption": "profile raw attributes",
+            "name": "raw",
+            "rank": 6,
+            "value": "text"
+        }
+    },
+    "type": "server_side",
+    "use_packages": true
+}

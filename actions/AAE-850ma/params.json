@@ -1,0 +1,39 @@
+{
+    "category": "data (things)",
+    "display": "BoxyHQ - Get Authorization URL",
+    "fields": {
+        "AAF": {
+            "caption": "tenant",
+            "doc": "https://boxyhq.com/docs/jackson/sso-flow/#31-authorize",
+            "editor": "DynamicValue",
+            "name": "tenant",
+            "rank": 0,
+            "value": "text"
+        },
+        "AAG": {
+            "caption": "product",
+            "doc": "https://boxyhq.com/docs/jackson/sso-flow/#31-authorize",
+            "editor": "DynamicValue",
+            "name": "product",
+            "rank": 1,
+            "value": "text"
+        },
+        "AAH": {
+            "caption": "state",
+            "doc": "https://boxyhq.com/docs/jackson/sso-flow/#31-authorize",
+            "editor": "DynamicValue",
+            "name": "state",
+            "rank": 2,
+            "value": "text"
+        }
+    },
+    "return_value": {
+        "AAI": {
+            "caption": "Authorization URL",
+            "name": "authorizationUrl",
+            "rank": 0,
+            "value": "text"
+        }
+    },
+    "type": "server_side"
+}
